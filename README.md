@@ -35,7 +35,7 @@ Keep refining your guesses, think strategically, and race to decode your rivalâ€
 
 1. **Run the game:**
    ```bash
-   python decode_duel.py
+   python Guess-O-Matic.py
 2. Set the code length (example: 4 digits).
 
 3. Player 1 enters their secret code (hidden).
