@@ -1,0 +1,52 @@
+## 🎮 Example Gameplay
+
+Below is a sample gameplay walkthrough from **Guess-O-Matic**, showcasing the intense back-and-forth between two master codebreakers 🧠⚔️
+
+Enter the length of the secret code (e.g., 4, 5, 6): 4
+
+🔐 Both players will now set their secret codes.
+
+Player 1, enter your secret 4-digit code: ****
+✅ Code accepted.
+
+Player 2, enter your secret 4-digit code: ****
+✅ Code accepted.
+
+🕹️ ROUND 1 — Let the Duel Begin!
+
+🎯 Player 1, enter your guess: 1234
+📝 Feedback: Position 2 is correct (2)
+💭 “Hmm... the second digit fits. Time to get smarter!”
+
+🎯 Player 2, enter your guess: 5678
+❌ No digits matched in the correct position.
+😬 “Total miss! My code must be way off…”
+
+==================================================
+🕹️ ROUND 2 — The Mind Game Deepens 🧩
+
+🎯 Player 1, enter your guess: 9254
+📝 Feedback: Positions 2 and 4 are correct (2, 4)
+🤔 “Nice! Two digits down, two to go!”
+
+🎯 Player 2, enter your guess: 2374
+📝 Feedback: Position 3 is correct (7)
+💡 “Got one! Progress at last.”
+
+==================================================
+🕹️ ROUND 3 — The Final Showdown 💥
+
+🎯 Player 1, enter your guess: 9284
+🎉 BOOM! Player 1 has cracked Player 2’s code: 9284
+🏆 PLAYER 1 WINS in 3 ROUNDS!
+🎊 “Flawless deduction, unbeatable logic — total victory!”
+
+🔥 GAME OVER — Player 1 takes the crown! 👑
+
+💬 “One secret cracked, one friendship tested... Rematch?”
+
+
+---
+
+> ⚔️ **Guess-O-Matic** is all about strategy, logic, and intuition — each round brings new clues, closer guesses, and rising tension until the final breakthrough!  
+> Think faster, guess smarter, and become the **Ultimate Codebreaker Champion** 🏆🔐
